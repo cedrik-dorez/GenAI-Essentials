@@ -8,7 +8,7 @@ We can use python binary to execute the python in the context of conda
 check what binary is being loaded.
 
 ```sh
-conda create -n hello python 3.10.0 -y
+conda create --name hello python 3.10.0 -y
 conda activate
 conda install -c conda-forge pandas
 pip list

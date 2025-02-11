@@ -4,5 +4,4 @@ conda install -c conda-forge jupyterlab
 jupyter lab --no-browser --allow-root --ip 0.0.0.0
 conda install -c conda-forge jupyterlab-git
 conda install -c conda-forge catppuccin-jupyterlab
-pip install amazon_codeguru_jupyterlab_extension
 ```
